@@ -1,2 +1,2 @@
-# Crypto_Game
+# Stock_Game
 Symulator inwestora
